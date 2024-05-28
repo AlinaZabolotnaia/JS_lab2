@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#activity {
+    display: block;
+    margin-top: 20px;
+    font-style: normal;
+    font-size: 1.5em;
+    color: #333;
+}
